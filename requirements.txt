@@ -1,0 +1,2 @@
+# MySQ Á¬½Ó¿â
+mysql-python=1.2.3
