@@ -1,2 +1,7 @@
-# MySQ ���ӿ�
+# MySQ 连接库
 mysql-python=1.2.3
+
+#可视化库
+pandas
+seaborn
+matplotlib
